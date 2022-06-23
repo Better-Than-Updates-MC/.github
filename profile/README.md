@@ -21,16 +21,16 @@ but Minecraft Beta 1.7.3 has a far larger community and more potential for moddi
 - Support Better Than Wolves addons
 - Backport every feature from the latest version of Better Than Wolves to Beta 1.7.3
 
-<a href="https://github.com/Better-Than-Updates-MC/babricated-forge"><h2 align="center">Yarn Beta</h2></a>
+<a href="https://github.com/BetterThanUpdates/apron"><h2 align="center">Yarn Beta</h2></a>
 <p align="center">
   Better Than Update's fork of <a href="https://github.com/FabricMC/Yarn">Yarn</a> for Minecraft Beta 1.7.3.
 </p>
 
-<a href="https://github.com/Better-Than-Updates-MC/apron"><h2 align="center">Babricated Forge</h2></a>
+<a href="https://github.com/BetterThanUpdates/apron"><h2 align="center">Babricated Forge</h2></a>
 <p align="center">
   <img
        src="https://github.com/BetterThanUpdates/apron/blob/b1.7.3/src/main/resources/assets/apron/icon.png?raw=true"
-       alt="Babricated Forge Logo" width=128 height=128/>
+       alt="Fabricated Forge Logo" width=128 height=128/>
   <br/>
   The Fabric that one would wear in a Forge.
 </p>
@@ -40,7 +40,7 @@ but Minecraft Beta 1.7.3 has a far larger community and more potential for moddi
 Better Than Wolves was created by FlowerChild and its code was released under the CC BY 4.0 license.
 Minecraft and its code are a registered copyright of Mojang Studios.
 
-Better Than Updates is not associated with or endorsed by FlowerChild, Mojang Studios or Microsoft.
+Better Than Updates is not associated with or endorsed by The Minecraft Forge team, FlowerChild, Mojang Studios or Microsoft.
 
 Better Than Updates and its contributors will never be intentionally distribute code or other intellectual property
-belonging to FlowerChild or Microsoft with or without permission.
+belonging to Mojang Studios or Microsoft, with or without permission.
