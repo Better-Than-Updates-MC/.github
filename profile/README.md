@@ -26,7 +26,7 @@ but Minecraft Beta 1.7.3 has a far larger community and more potential for moddi
   Better Than Update's fork of <a href="https://github.com/FabricMC/Yarn">Yarn</a> for Minecraft Beta 1.7.3.
 </p>
 
-<a href="https://github.com/BetterThanUpdates/apron"><h2 align="center">Babricated Forge</h2></a>
+<a href="https://github.com/BetterThanUpdates/apron"><h2 align="center">Apron</h2></a>
 <p align="center">
   <img
        src="https://github.com/BetterThanUpdates/apron/blob/b1.7.3/src/main/resources/assets/apron/icon.png?raw=true"
