@@ -21,7 +21,7 @@ but Minecraft Beta 1.7.3 has a far larger community and more potential for moddi
 - Support Better Than Wolves addons
 - Backport every feature from the latest version of Better Than Wolves to Beta 1.7.3
 
-<a href="https://github.com/BetterThanUpdates/apron"><h2 align="center">Yarn Beta</h2></a>
+<a href="https://github.com/BetterThanUpdates/Mappings"><h2 align="center">Yarn Beta</h2></a>
 <p align="center">
   Better Than Update's fork of <a href="https://github.com/FabricMC/Yarn">Yarn</a> for Minecraft Beta 1.7.3.
 </p>
