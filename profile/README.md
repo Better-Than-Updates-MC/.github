@@ -29,7 +29,7 @@ but Minecraft Beta 1.7.3 has a far larger community and more potential for moddi
 <a href="https://github.com/BetterThanUpdates/apron"><h2 align="center">Apron</h2></a>
 <p align="center">
   <img
-       src="https://github.com/BetterThanUpdates/apron/blob/b1.7.3/src/main/resources/assets/apron/icon.png?raw=true"
+       src="https://github.com/BetterThanUpdates/Apron/blob/b1.7.3/apron-impl/src/main/resources/assets/apron/icon.png?raw=true"
        alt="Fabricated Forge Logo" width=128 height=128/>
   <br/>
   The Fabric that one would wear in a Forge.
