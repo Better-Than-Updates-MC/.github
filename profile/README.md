@@ -26,15 +26,6 @@ but Minecraft Beta 1.7.3 has a far larger community and more potential for moddi
   Better Than Update's fork of <a href="https://github.com/FabricMC/Yarn">Yarn</a> for Minecraft Beta 1.7.3.
 </p>
 
-<h2 align="center"><a href="https://github.com/BetterThanUpdates/apron">Apron</a></h2>
-<p align="center">
-  <img
-       src="https://github.com/BetterThanUpdates/Apron/blob/b1.7.3/apron-impl/src/main/resources/assets/apron/icon.png?raw=true"
-       alt="Fabricated Forge Logo" width=128 height=128/>
-  <br/>
-  The Fabric that one would wear in a Forge.
-</p>
-
 # Disclaimer
 
 Better Than Wolves was created by FlowerChild and its code was released under the CC BY 4.0 license.<br>
