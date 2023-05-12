@@ -8,7 +8,7 @@
 Better Than Wolves is a jar mod for Minecraft, last updated for Minecraft 1.5.2,
 which was last updated December 24th, 2020. It is now retired by the creator, FlowerChild.
 
-Better than Updates was started to provide better mod support for Better Than Wolves.
+Better Than Updates was started to provide better mod support for Better Than Wolves.
 
 The original idea was to provide support for BTW on Minecraft 1.5.2,
 but Minecraft Beta 1.7.3 has a far larger community and more potential for modding.
