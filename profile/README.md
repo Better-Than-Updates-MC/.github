@@ -31,6 +31,6 @@ but Minecraft Beta 1.7.3 has a far larger community and more potential for moddi
 Better Than Wolves was created by FlowerChild and its code was released under the CC BY 4.0 license.<br>
 Minecraft and its code are a registered copyright of Mojang Studios and are subject to the [Minecraft EULA](https://www.minecraft.net/en-us/eula).
 
-Better Than Updates is not associated with or endorsed by The [Minecraft Forge team](https://github.com/MinecraftForge), FlowerChild, Mojang Studios or Microsoft.
+Better Than Updates is not associated with or endorsed by FlowerChild, Mojang Studios or Microsoft.
 
 Better Than Updates and its contributors will never be intentionally distribute code or other intellectual property belonging to Mojang Studios or Microsoft, with or without permission.
